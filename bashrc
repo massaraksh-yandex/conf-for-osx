@@ -1,2 +1,2 @@
-. $1/aliases
-. $1/exports
+. $1/profile/aliases
+. $1/profile/exports
